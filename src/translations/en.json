@@ -1,0 +1,20 @@
+{
+ "title": "M0-kii",
+ "subtitle": "Hey im Moki and that's it, because i don't know anymore about myself",
+ "projects_title": "Projects",
+ "skills_title": "Skills",
+ "desc": "Building beautiful & fast web experiences.",
+ "all_tab": "All",
+ "github_tab": "GitHub",
+ "modrinth_tab": "Modrinth",
+ "loading": "Loading...",
+ "error": "Failed to fetch data. );",
+ "no_repos": "No repositories found. ):",
+ "no_mods": "No Modrinth projects found. ):",
+ "no_results": "No projects found matching your search. );",
+ "page_count": "Page {{current}}",
+ "built_by": "Built by",
+ "search_placeholder": "Search something...",
+ "list_view": "List View",
+ "grid_view": "Grid View"
+}
